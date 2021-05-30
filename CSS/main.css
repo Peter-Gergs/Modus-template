@@ -446,6 +446,7 @@ header .container nav h4:first-of-type {
 .contact .container .contact-us {
   display: flex;
   flex-direction: column;
+  max-width: 100%;
 }
 .contact .container .contact-us h3 {
   margin: 10px 30px;
